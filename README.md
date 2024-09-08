@@ -1,4 +1,4 @@
-### youger32-projeto p5.js
+### youger32-projeto
 
--projetos p5,js
+-projetos do alura
 
