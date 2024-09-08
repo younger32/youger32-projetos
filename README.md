@@ -1,4 +1,6 @@
-### youger32-projeto
+### projetos
 
 -projetos do alura
+-projetos pessoais
+-outros
 
